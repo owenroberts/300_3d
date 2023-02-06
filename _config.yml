@@ -1,0 +1,12 @@
+description: "MEA 300: 3D Design for Games, Augmented and Virtual Reality"
+class: MEA 300
+schedule: false
+# baseurl: /
+layouts_dir: slides/_jeks/layouts
+includes_dir: slides/_jeks/includes
+# Exclude these files from your production _site
+exclude:
+  - README.md
+  - update.sh
+  - screen_casts/
+  - _dev
