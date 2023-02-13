@@ -9,7 +9,7 @@ This site contains lecture notes.
 
 # Lectures
 - [History of 3D Graphics](notes/3d_graphics)
-- [Level Design](#)
+- [Level Design](notes/level_design)
 - [Level Sequencing](#)
 - [History of Augmented Reality](#)
 - [Augmented Reality Platforms](#)
