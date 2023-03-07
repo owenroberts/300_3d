@@ -11,7 +11,7 @@ This site contains lecture notes.
 - [History of 3D Graphics](notes/3d_graphics)
 - [Level Design](notes/level_design)
 - [Level Sequencing](#)
-- [History of Augmented Reality](#)
+- [Augmented Reality](notes/ar)
 - [Augmented Reality Platforms](#)
 - [Interactive Narrative](#)
 - [History of Virtual Reality](#)
