@@ -12,5 +12,5 @@ This site contains lecture notes.
 - [Level Design](notes/level_design)
 - [Augmented Reality](notes/ar)
 - [Interactive Storytelling](notes/storytelling)
-- [History of Virtual Reality](#)
-- [Networked virtual spaces](#)
+- [Virtual Reality](notes/vr)
+<!-- - [Networked virtual spaces](#) -->
