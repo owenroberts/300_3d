@@ -13,4 +13,4 @@ This site contains lecture notes.
 - [Augmented Reality](notes/ar)
 - [Interactive Storytelling](notes/storytelling)
 - [Virtual Reality](notes/vr)
-<!-- - [Networked virtual spaces](#) -->
+- [Networked virtual spaces](notes/metaverse)
