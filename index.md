@@ -3,14 +3,13 @@ layout: main
 title: 3D Design for Games, Augmented and Virtual Reality
 ---
 
-This is the class page of MEA 300 at BMCC.
-
-This site contains lecture notes.
+Lecture notes from MEA 300.
 
 # Lectures
-- [History of 3D Graphics](notes/3d_graphics)
 - [Level Design](notes/level_design)
-- [Augmented Reality](notes/ar)
-- [Interactive Storytelling](notes/storytelling)
-- [Virtual Reality](notes/vr)
-- [Networked virtual spaces](notes/metaverse)
+- [User testing](notes/user_testing)
+- [History of 3D Graphics](notes/3d_graphics)
+<!-- - [Augmented Reality](notes/ar) -->
+<!-- - [Interactive Storytelling](notes/storytelling) -->
+<!-- - [Virtual Reality](notes/vr) -->
+<!-- - [Networked virtual spaces](notes/metaverse) -->
